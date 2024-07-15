@@ -17,6 +17,8 @@ void loop() {
 
 }
   ```
+### Подробнее про символы:
+[http://www.isthe.com/](http://www.isthe.com/chongo/tech/comp/ansi_escapes.html)
 ### Рекомендации
   - Использовать на плате Arduino Nano
 ## Спасибо:
