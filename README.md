@@ -26,5 +26,4 @@ void loop() {
 
 [AlexGyver](https://www.youtube.com/@AlexGyverShow)
 
-Мой отец)
 
